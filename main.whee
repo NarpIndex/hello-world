@@ -1,0 +1,21 @@
+=WHEE=
+
+int main() {
+print("Hello from Whee!");
+print("You have succesfully installed the Whee programming language!")
+print("Lets see how to write code in it!")
+print("Try a simple hello world script!")
+print()
+print("Create a new file called hello-world.whee and in it write:")
+print()
+print("=WHEE=")
+print("print('Hello world!')")
+print()
+print("(Replace ' with double quotes)")
+print("Now try running whee hello-world.whee")
+print("It should output:")
+print("Hello world!")
+print()
+print("If you wants to learn more, have a look at https://whee.leon8326.org/docs"
+print("Bye!")
+}
